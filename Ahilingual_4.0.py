@@ -1,9 +1,7 @@
 import discord
 from discord import app_commands
 import re
-#from keep_yourself_alive import keep_yourself_alive
 import deepl
-#from deep_translator import GoogleTranslator
 import datetime
 import os
 import asyncio
