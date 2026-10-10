@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 # 取得したトークンを環境変数(.envファイル)から取得
 #！！！！！！！！！！！！！！！！！！！！！！！
-#！！！！！！.envファイルは流出厳禁！！！！！！
+#！！！！！！.envファイルと、その中のDiscordとDeepLのAPIキーはマジのマジで流出厳禁！！！！！！
 #！！！！！！！！！！！！！！！！！！！！！！！
 load_dotenv()
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
