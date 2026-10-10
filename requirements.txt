@@ -1,0 +1,5 @@
+discord.py
+deep-translator
+deepl
+Flask
+python-dotenv
